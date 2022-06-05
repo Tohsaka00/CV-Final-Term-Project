@@ -4,6 +4,8 @@ This is the code to train a powerful Vision Transformer Model on CIFAR-100 Datas
 
 To train Transformer run train.py or train.ipynb
 
+I also provided my code to train a ResNet on CIFAR-100.
+
 The best.hdf5 is one of the model weights I trained from a 8-layer Transformer.
 
 The validation accuracy can be over 99%!
